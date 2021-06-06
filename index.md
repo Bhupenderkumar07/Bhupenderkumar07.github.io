@@ -1,10 +1,10 @@
-<!DOCTYPE html>
+<html>
 <head>
 
    <!--- basic page needs
    ================================================== -->
    <meta charset="utf-8">
-	<title>Kards</title>
+	<title>Bhupender Kumar</title>
 	<meta name="description" content="">  
 	<meta name="author" content="">
 
@@ -122,7 +122,7 @@ hardworking nature along with good communication skill to explore the requiremen
 
    	<div class="row button-section">
    		<div class="col-twelve">
-   			<a  href="bhupender_kumar_resume.pdf" title="Download CV" class="button button-primary" download>Download CV</a>
+   			<a href="https://drive.google.com/file/d/1Svu4VPLumKm0OK4MQiGzbGKnUFRt6nyW/view?usp=sharing" title="Download CV" class="button button-primary">Download CV</a>
    		</div>   		
    	</div>
 
@@ -178,5 +178,4 @@ hardworking nature along with good communication skill to explore the requiremen
    <script src="js/main.js"></script>
 
 </body>
-
 </html>
