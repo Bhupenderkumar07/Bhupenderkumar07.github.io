@@ -122,7 +122,7 @@ hardworking nature along with good communication skill to explore the requiremen
 
    	<div class="row button-section">
    		<div class="col-twelve">
-   			<a href="bhupender_kumar_resume.pdf" title="Download CV" class="button button-primary">Download CV</a>
+   			<a  href="bhupender_kumar_resume.pdf" title="Download CV" class="button button-primary" download>Download CV</a>
    		</div>   		
    	</div>
 
