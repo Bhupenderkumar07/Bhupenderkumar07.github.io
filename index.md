@@ -102,8 +102,7 @@
 
    				<img src="images/profile-pic.jpg" alt="Profile Picture">
 
-   				<p class="lead">I am a enthusiastic Web Developer.Looking for opportunities to build my carrier that would help me in achieving greater practical excellence in the software industry, exceptional with
-hardworking nature along with good communication skill to explore the requirements and come up with an innovative solution.</p>
+   				<p class="lead">I am an enthusiastic Web Developer. Looking for opportunities to build my carrier that would help me in achieving greater practical excellence in the software industry, exceptional with hardworking nature along with good communication skill to explore the requirements and come up with an innovative solution.</p>
    			</div>   			
 
    		</div>   		
