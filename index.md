@@ -29,27 +29,13 @@
 
 </head>
 
-<body id="top">
+<body id="top" onload="zoom()">
 
 	<!-- header 
    ================================================== -->
    <header>   	
    	<div class="row">
 
-   		<div class="top-bar">
-   			<a class="menu-toggle" href="#"><span>Menu</span></a>
-
-	   		<div class="">
-		         <a href="index.html">Menu</a>
-		      </div>		      
-
-		   	<nav id="main-nav-wrap">
-					<ul class="main-navigation">
-						<li class="current"><a class="smoothscroll"  href="#intro" title="">Home</a></li>
-						<li><a class="smoothscroll"  href="#about" title="">About</a></li>				
-					</ul>
-				</nav>    		
-   		</div> <!-- /top-bar --> 
    		
    	</div> <!-- /row --> 		
    </header> <!-- /header -->
@@ -153,9 +139,7 @@
 	      </div>
 
       	<div class="col-six tab-full">
-	      	<div class="copyright">
-		        	<span>© Copyright Kards 2016.</span> 
-		        	<span>Design by <a href="">styleshout</a></span>	         	
+	      	<div class="copyright">         	
 		         </div>		                  
 	      	</div>
 
@@ -166,15 +150,17 @@
       	</div> <!-- /row -->     	
    </footer>  
 
-   <div id="preloader"> 
-    	<div id="loader"></div>
-   </div> 
 
    <!-- Java Script
    ================================================== --> 
    <script src="js/jquery-2.1.3.min.js"></script>
    <script src="js/plugins.js"></script>
    <script src="js/main.js"></script>
+   <script type="text/javascript">
+   function zoom() {
+            document.body.style.zoom = "100%"}
+
+</script>
 
 </body>
 </html>
