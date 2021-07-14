@@ -107,7 +107,7 @@
 
    	<div class="row button-section">
    		<div class="col-twelve">
-   			<a href="https://drive.google.com/file/d/1Jvjn7mEEcYAYHNxG7x3iesVK_YlHHCa2/view?usp=sharing" title="Download CV" class="button button-primary">Download CV</a>
+   			<a href="https://drive.google.com/file/d/14jZS_LGxN369uyZQgjZC-O4evDd_h6xD/view?usp=sharing" title="Download CV" class="button button-primary">Download CV</a>
    		</div>   		
    	</div>
 
@@ -116,12 +116,6 @@
 
 	<!-- Portfolio Section
    ================================================== -->
-
-
-
-	<!-- stats Section
-   ================================================== -->
-
 
 
    <!-- footer
