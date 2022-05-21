@@ -107,7 +107,7 @@
 
    	<div class="row button-section">
    		<div class="col-twelve">
-   			<a href="https://drive.google.com/file/d/14jZS_LGxN369uyZQgjZC-O4evDd_h6xD/view?usp=sharing" title="Download CV" class="button button-primary">Download CV</a>
+   			<a href="https://drive.google.com/file/d/1n3yI_Q-Ib3qHB1fZW1dP2_a4SdPbNKRz/view?usp=sharing" title="Download CV" class="button button-primary">Download CV</a>
    		</div>   		
    	</div>
 
