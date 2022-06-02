@@ -1,317 +1,160 @@
-<html lang="en">
-
+<html>
 <head>
-  <meta charset="utf-8">
-  <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Dr. Ram Manohar Lohiya</title>
-  <meta content="" name="description">
-  <meta content="" name="keywords">
+   <!--- basic page needs
+   ================================================== -->
+   <meta charset="utf-8">
+	<title>Bhupender Kumar</title>
+	<meta name="description" content="">  
+	<meta name="author" content="">
 
-  <!-- Favicons -->
-  <link href="assets/img/favicon.jpeg" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+   <!-- mobile specific metas
+   ================================================== -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-  <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+ 	<!-- CSS
+   ================================================== -->
+   <link rel="stylesheet" href="css/base.css">  
+   <link rel="stylesheet" href="css/main.css">
+   <link rel="stylesheet" href="css/vendor.css">     
 
-  <!-- Vendor CSS Files -->
-  <link href="assets/vendor/animate.css/animate.min.css" rel="stylesheet">
-  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
-  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
-  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
-  <link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
-  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+   <!-- script
+   ================================================== -->   
+	<script src="js/modernizr.js"></script>
+	<script src="js/pace.min.js"></script>
 
-  <!-- Template Main CSS File -->
-  <link href="assets/css/style.css" rel="stylesheet">
+   <!-- favicons
+	================================================== -->
+	<link rel="icon" type="image/png" href="favicon.png">
 
-  <!-- =======================================================
-  * Template Name: Mentor - v4.7.0
-  * Template URL: https://bootstrapmade.com/mentor-free-education-bootstrap-theme/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
 </head>
 
-<body>
+<body id="top" onload="zoom()">
 
-  <!-- ======= Header ======= -->
-  <header id="header" class="fixed-top">
-    <div class="container d-flex align-items-center">
+	<!-- header 
+   ================================================== -->
+   <header>   	
+   	<div class="row">
 
-      
-      <a href="index.html" class="logo me-auto"><img src="assets/img/logo.jpeg" alt="" class="img-fluid"></a>
+   		
+   	</div> <!-- /row --> 		
+   </header> <!-- /header -->
 
-      <nav id="navbar" class="navbar order-last order-lg-0">
-        <i class="bi bi-list mobile-nav-toggle"></i>
-      </nav><!-- .navbar -->
+	<!-- intro section
+   ================================================== -->
+   <section id="intro">   
 
-      <a href="" class="get-started-btn">Contact No : 8686947171 , 9415383258</a>
+   	<div class="intro-overlay"></div>	
 
-    </div>
-  </header><!-- End Header -->
+   	<div class="intro-content">
+   		<div class="row">
 
-  <!-- ======= Hero Section ======= -->
-  <section id="hero" class="d-flex justify-content-center align-items-center">
-    <div class="container position-relative"  data-aos-delay="100">
-      <h1>Dr. Ram Manohar Lohiya<br>Inter College</h1>
-      <h2>An English Medium School</h2>
-      <a href="" class="btn-get-started">Get Started</a>
-    </div>
-  </section><!-- End Hero -->
+   			<div class="col-twelve">
 
-  <main id="main">
+	   			<h5>Hello, There.</h5>
+	   			<h1>I'm Bhupender Kumar.</h1>
 
-    <!-- ======= About Section ======= -->
-    <section id="about" class="about">
-      <div class="container" data-aos="fade-up">
+	   			<p class="intro-position">
+	   				<span>Python Developer</span>
+	   				<span>Digital Marketer</span> 
+	   			</p>
 
-        <div class="row">
-          <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
-            <img src="assets/img/about.jpg" class="img-fluid" alt="">
-          </div>
-          <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content">
-            <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
-            <p class="fst-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
-            </p>
-            <ul>
-              <li><i class="bi bi-check-circle"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="bi bi-check-circle"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-              <li><i class="bi bi-check-circle"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
-            </ul>
-            <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-            </p>
+	   			<a class="button stroke smoothscroll" href="#about" title="">More About Me</a>
 
-          </div>
-        </div>
+	   		</div>  
+   			
+   		</div>   		 		
+   	</div> <!-- /intro-content --> 
 
-      </div>
-    </section><!-- End About Section -->
+   	<ul class="intro-social">        
+         <li><a href="https://www.linkedin.com/in/bhupender-kumar-a4597b1b1/"><i class="fa fa-linkedin"></i></a></li>
+        
+      </ul> <!-- /intro-social -->      	
 
-    <!-- ======= Counts Section ======= -->
-    <section id="counts" class="counts section-bg">
-      <div class="container">
+   </section> <!-- /intro -->
 
-        <div class="row counters">
 
-          <div class="col-lg-3 col-6 text-center">
-            <span data-purecounter-start="0" data-purecounter-end="1232" data-purecounter-duration="1" class="purecounter"></span>
-            <p>Students</p>
-          </div>
+   <!-- about section
+   ================================================== -->
+   <section id="about">  
 
-          <div class="col-lg-3 col-6 text-center">
-            <span data-purecounter-start="0" data-purecounter-end="64" data-purecounter-duration="1" class="purecounter"></span>
-            <p>Courses</p>
-          </div>
+   	<div class="row section-intro">
+   		<div class="col-twelve">
 
-          <div class="col-lg-3 col-6 text-center">
-            <span data-purecounter-start="0" data-purecounter-end="42" data-purecounter-duration="1" class="purecounter"></span>
-            <p>Events</p>
-          </div>
+   			<h5>About</h5>
+   			<h1>Let me introduce myself.</h1>
 
-          <div class="col-lg-3 col-6 text-center">
-            <span data-purecounter-start="0" data-purecounter-end="15" data-purecounter-duration="1" class="purecounter"></span>
-            <p>Trainers</p>
-          </div>
+   			<div class="intro-info">
 
-        </div>
+   				<img src="images/profile-pic.jpg" alt="Profile Picture">
 
-      </div>
-    </section><!-- End Counts Section -->
+   				<p class="lead">I am an enthusiastic Web Developer. Looking for opportunities to build my carrier that would help me in achieving greater practical excellence in the software industry, exceptional with hardworking nature along with good communication skill to explore the requirements and come up with an innovative solution.</p>
+   			</div>   			
 
-    <!-- ======= Why Us Section ======= -->
-    <section id="why-us" class="why-us">
-      <div class="container" data-aos="fade-up">
+   		</div>   		
+   	</div> <!-- /section-intro -->
 
-        <div class="row">
-          <div class="col-lg-4 d-flex align-items-stretch">
-            <div class="content">
-              <h3>Why Choose Us?</h3>
-              <p>
-                Ours is an outstanding international school with a warm and welcoming learning environment.We place special emphasis on being inclusive and supportive of the diverse needs of a varied and dynamic school community and on offering all students opportunities for growth and success..
-              </p>
-            
-            </div>
-          </div>
-          <div class="col-lg-8 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
-            <div class="icon-boxes d-flex flex-column justify-content-center">
-              <div class="row">
-                <div class="col-xl-4 d-flex align-items-stretch">
-                  <div class="icon-box mt-4 mt-xl-0">
-                    <i class="bx bx-receipt"></i>
-                    <h4>Personalised Programs</h4>
-                    <p>We create personalized programs to support students with learning difficulties and for students who are new to the English language.</p>
-                  </div>
-                </div>
-                <div class="col-xl-4 d-flex align-items-stretch">
-                  <div class="icon-box mt-4 mt-xl-0">
-                    <i class="bx bx-cube-alt"></i>
-                    <h4>Positive Relationships</h4>
-                    <p>The positive relationships between parents, students and teachers are the foundation of our learning environment.</p>
-                  </div>
-                </div>
-                <div class="col-xl-4 d-flex align-items-stretch">
-                  <div class="icon-box mt-4 mt-xl-0">
-                    <i class="bx bx-images"></i>
-                    <h4>Equal Opportunities</h4>
-                    <p> Students with special gifts and talents are challenged and encouraged by our experienced teachers to achieve their full potential.</p>
-                  </div>
-                </div>
-              </div>
-            </div><!-- End .content-->
-          </div>
-        </div>
+   	<div class="row about-content">
 
-      </div>
-    </section><!-- End Why Us Section -->
+   		<div class="col-six tab-full">
 
-    <!-- ======= Features Section ======= -->
-    <section id="features" class="features">
-      <div class="container" data-aos="fade-up">
+   		</div>
 
-        <div class="row" data-aos="zoom-in" data-aos-delay="100">
-          <div class="col-lg-3 col-md-4">
-            <div class="icon-box">
-              <i class="ri-store-line" style="color: #ffbb2c;"></i>
-              <h3><a href="">CBSE Affilated</a></h3>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
-            <div class="icon-box">
-              <i class="ri-bar-chart-box-line" style="color: #5578ff;"></i>
-              <h3><a href="">Sports Activities</a></h3>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
-            <div class="icon-box">
-              <i class="ri-calendar-todo-line" style="color: #e80368;"></i>
-              <h3><a href="">Cultural Activities</a></h3>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 mt-4 mt-lg-0">
-            <div class="icon-box">
-              <i class="ri-paint-brush-line" style="color: #e361ff;"></i>
-              <h3><a href="">Computer Lab</a></h3>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 mt-4">
-            <div class="icon-box">
-              <i class="ri-database-2-line" style="color: #47aeff;"></i>
-              <h3><a href="">Chemistry Laboratory</a></h3>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 mt-4">
-            <div class="icon-box">
-              <i class="ri-gradienter-line" style="color: #ffa76e;"></i>
-              <h3><a href="">Silent Enviroment</a></h3>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 mt-4">
-            <div class="icon-box">
-              <i class="ri-file-list-3-line" style="color: #11dbcf;"></i>
-              <h3><a href="">Ro Filter</a></h3>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 mt-4">
-            <div class="icon-box">
-              <i class="ri-price-tag-2-line" style="color: #4233ff;"></i>
-              <h3><a href="">Bus Facility</a></h3>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 mt-4">
-            <div class="icon-box">
-              <i class="ri-anchor-line" style="color: #b2904f;"></i>
-              <h3><a href="">Swimming Pool</a></h3>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 mt-4">
-            <div class="icon-box">
-              <i class="ri-disc-line" style="color: #b20969;"></i>
-              <h3><a href="">Biology Laboratory</a></h3>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 mt-4">
-            <div class="icon-box">
-              <i class="ri-base-station-line" style="color: #ff5828;"></i>
-              <h3><a href="">Physics Laboratory</a></h3>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 mt-4">
-            <div class="icon-box">
-              <i class="ri-fingerprint-line" style="color: #29cc61;"></i>
-              <h3><a href="">Experienced Faculty</a></h3>
-            </div>
-          </div>
-        </div>
+   		<div class="col-six tab-full">
+   		</div>
 
-      </div>
-    </section><!-- End Features Section -->
+   	</div>
 
-    <!-- About Start -->
-    <div class="container-xxl py-5">
-        <div class="container">
-            <div class="row g-5">
-                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s" style="min-height: 400px;">
-                    <div class="position-relative h-100">
-                        <img class="img-fluid position-absolute w-100 h-100" src="assets/img/rajat.jpeg" alt="" style="object-fit: cover;">
-                    </div>
-                </div>
-                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.3s">
-                    <h6 class="section-title bg-white text-start text-primary pe-3">Word From Director Mr.Rajat Pradhan</h6>
-                    <h1 class="mb-4">Welcome to our School</h1>
-                    <p class="mb-4">We have to live in present namely from your satisfaction and success. In order to thrive and make you happy in the future too, we have to continually differentiate, excel and move forward each day.</p>
-                    <p class="mb-4">That is exactly what separate us from big and established higher education providers, since in order to survive, develop and grow, we can rely only on present achievements and we cannot capitalize on historic results and reputation.</p>
-                   
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- About End -->
+   	<div class="row button-section">
+   		<div class="col-twelve">
+   			<a href="https://drive.google.com/file/d/1n3yI_Q-Ib3qHB1fZW1dP2_a4SdPbNKRz/view?usp=sharing" title="Download CV" class="button button-primary">Download CV</a>
+   		</div>   		
+   	</div>
 
-  </main><!-- End #main -->
+   </section> <!-- /process-->    
 
-  <!-- ======= Footer ======= -->
-  <footer id="footer">
 
-    <div class="container d-md-flex py-4">
+	<!-- Portfolio Section
+   ================================================== -->
 
-      <div class="me-md-auto text-center text-md-start">
-        <div class="copyright">
-          &copy; Copyright <strong><span>Dr. Ram Manohar Lohiya Inter College</span></strong>. All Rights Reserved
-        </div>
-        <div class="credits">
-          Designed by <a href="https://bootstrapmade.com/">Digital Atlass</a>
-        </div>
-      </div>
-      <div class="social-links text-center text-md-right pt-3 pt-md-0">
-        <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-        <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-        <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-        <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-        <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
-      </div>
-    </div>
-  </footer><!-- End Footer -->
 
-  <div id="preloader"></div>
-  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+   <!-- footer
+   ================================================== -->
 
-  <!-- Vendor JS Files -->
-  <script src="assets/vendor/purecounter/purecounter.js"></script>
-  <script src="assets/vendor/aos/aos.js"></script>
-  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
-  <script src="assets/vendor/php-email-form/validate.js"></script>
+   <footer>
+     	<div class="row">
 
-  <!-- Template Main JS File -->
-  <script src="assets/js/main.js"></script>
+     		<div class="col-six tab-full pull-right social">
+
+     			<ul class="footer-social">        
+			 
+			   </ul> 
+	      		
+	      </div>
+
+      	<div class="col-six tab-full">
+	      	<div class="copyright">         	
+		         </div>		                  
+	      	</div>
+
+	      	<div id="go-top">
+		         <a class="smoothscroll" title="Back to Top" href="#top"><i class="fa fa-long-arrow-up"></i></a>
+		      </div>
+
+      	</div> <!-- /row -->     	
+   </footer>  
+
+
+   <!-- Java Script
+   ================================================== --> 
+   <script src="js/jquery-2.1.3.min.js"></script>
+   <script src="js/plugins.js"></script>
+   <script src="js/main.js"></script>
+   <script type="text/javascript">
+   function zoom() {
+            document.body.style.zoom = "100%"}
+
+</script>
 
 </body>
-
 </html>
